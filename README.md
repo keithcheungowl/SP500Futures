@@ -1,5 +1,5 @@
 # SP500Futures
-Analyses tick data for the S&P 500 futures contract (SP), from 2000–2019. \
+Analyses tick data for the S&P 500 futures contract, SP, from 2000–2019. \
 Data from Finnhub via Kaggle: https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp. \
 Good introduction on S&P 500 futures here: https://www.investopedia.com/ask/answers/042315/how-do-sp-500-futures-work.asp. \
 At the CME Group website: https://www.cmegroup.com/trading/equity-index/us-index/sandp-500_quotes_globex.html. \
