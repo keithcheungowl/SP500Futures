@@ -4,7 +4,7 @@ Data from Finnhub via Kaggle: https://www.kaggle.com/finnhub/sp-500-futures-tick
 Good introduction on S&P 500 futures here: https://www.investopedia.com/ask/answers/042315/how-do-sp-500-futures-work.asp.
 
 Done in Python and Jupyter Notebook. \
-CSV file has four columns: date, time, price, volume.
+CSV file has 13,802,502 rows and four columns: date, time, price, volume.
 
 Analyses price and volume, by day of week, month, year. \
 Analyses the last-digit of traded volumes and prices. \
