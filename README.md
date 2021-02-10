@@ -5,7 +5,7 @@ Good introduction on S&P 500 futures here: https://www.investopedia.com/ask/answ
 At the CME Group website: https://www.cmegroup.com/trading/equity-index/us-index/sandp-500_quotes_globex.html. \
 Finnhub's website: https://finnhub.io/.
 
-Done in Python (Pandas) and Jupyter Notebook. \
+Done in Python (Pandas) in Jupyter Notebook. \
 Code is in the 'S&P 500 futures.ipynb' file. \
 Results are in the 'S&P 500 futures analysis.xlsx' file. \
 CSV file has 13,802,502 rows and four columns: date, time, price, volume.
