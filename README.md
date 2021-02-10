@@ -7,7 +7,7 @@ Finnhub's website: https://finnhub.io/.
 Done in Python (Pandas) and Jupyter Notebook. \
 CSV file has 13,802,502 rows and four columns: date, time, price, volume.
 
-Analyses price and volume, by day of week, month, year. \
+Analyses price and volume, aggregated and by day of week, month, year. \
 Analyses the last-digit of traded volumes and prices. \
 Exports results to 'S&P 500 futures analysis.xlsx' file.
 
